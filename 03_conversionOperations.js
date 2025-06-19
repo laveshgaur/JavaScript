@@ -31,3 +31,8 @@ console.log(booleanIsLoggedIn);
 
 // "" => false
 // "abc" => true
+
+let number = 55;
+let stringNumber = String(number);
+console.log(typeof stringNumber);
+console.log(stringNumber);
